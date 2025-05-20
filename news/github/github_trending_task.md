@@ -20,7 +20,7 @@
 mkdir -p .tmp
 
 # 创建github目录用于存放归档数据
-mkdir -p github
+mkdir -p news/github
 
 # 如需清空现有.tmp目录内容
 rm -rf .tmp/*
@@ -57,25 +57,25 @@ EOF
 CURRENT_DATE=$(date +%Y%m%d)
 
 # 创建对应的日期目录
-mkdir -p github/$CURRENT_DATE
+mkdir -p news/github/$CURRENT_DATE
 ```
 
 ### 4. 生成项目详细介绍文档
 
-为每个trending项目创建中文简介，并整合到README文件中：
+为每个trending项目创建中文简介，并整合到trending.md文件中：
 
 ```bash
-# 创建README.md文件头部
-cat > github/$CURRENT_DATE/README.md << EOF
+# 创建trending.md文件头部
+cat > news/github/$CURRENT_DATE/trending.md << EOF
 # GitHub 热门项目简介 ($(date +%Y年%m月%d日))
 
 以下是GitHub今日热门项目的简要介绍：
 EOF
 
-# 针对每个项目，获取详细信息并添加到README
+# 针对每个项目，获取详细信息并添加到trending.md
 # 这一步可以通过脚本循环读取.tmp/trending_projects.md的内容
 # 然后通过API或其他方式获取每个项目的详细信息
-# 最后将格式化的内容追加到README.md
+# 最后将格式化的内容追加到trending.md
 
 # 对于每个项目，添加如下格式的内容：
 # ## 序号. 用户名/仓库名
@@ -99,7 +99,7 @@ EOF
 执行完成后，将得到以下文件：
 
 1. `.tmp/trending_projects.md`：包含结构化的趋势项目基本信息表格
-2. `github/YYYYMMDD/README.md`：包含详细的项目介绍文档
+2. `news/github/YYYYMMDD/trending.md`：包含详细的项目介绍文档
 
 文件示例可参考：
 - 趋势项目表格：包含14个热门项目的序号、名称、地址、Star数和今日增量
