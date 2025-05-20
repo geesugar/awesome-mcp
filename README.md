@@ -133,6 +133,8 @@ MCP (Model Context Protocol) is an open protocol that enables AI models to secur
 
 *Frameworks and libraries for building MCP servers.*
 
+* [volcengine/mcp-server](https://github.com/volcengine/mcp-server) ![GitHub stars](https://img.shields.io/github/stars/volcengine/mcp-server?style=social) <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16"/> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" height="16"/> <img src="https://cdn.simpleicons.org/go/00ADD8" width="16" height="16"/> <img src="https://cdn.simpleicons.org/icloud/3693F3" width="16" height="16"/> <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16" height="16"/> - A comprehensive MCP server marketplace by Volcengine featuring 100+ integrated MCP servers across various categories including search tools, location services, content generation, source code management, data querying, file management, collaboration communications, and more.
+
 <!-- Frameworks section will be filled later -->
 
 ## Tips & Tricks

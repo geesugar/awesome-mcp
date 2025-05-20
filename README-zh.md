@@ -124,7 +124,7 @@ MCP（模型上下文协议）是一种开放协议，通过标准化的服务�
 
 *用于构建MCP服务器的框架和库。*
 
-<!-- 框架部分将在后续填充 -->
+* [volcengine/mcp-server](https://github.com/volcengine/mcp-server) ![GitHub stars](https://img.shields.io/github/stars/volcengine/mcp-server?style=social) <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16"/> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" height="16"/> <img src="https://cdn.simpleicons.org/go/00ADD8" width="16" height="16"/> <img src="https://cdn.simpleicons.org/icloud/3693F3" width="16" height="16"/> <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16" height="16"/> - 火山引擎大模型生态广场的MCP Server共享仓库，目前已上线100+个MCP服务器，涵盖搜索工具、位置服务、内容生成、源码管理、数据查询、文件管理、协作沟通等多种类别，支持用户探索与体验大模型丰富生态服务。
 
 ## 技巧与窍门
 
