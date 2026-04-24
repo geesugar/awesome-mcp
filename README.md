@@ -129,6 +129,10 @@ MCP (Model Context Protocol) is an open protocol that enables AI models to secur
 
 <!-- AI & ML Tools section will be filled later with high-quality MCP server implementations -->
 
+### Security & Privacy
+
+* [Agnuxo1/EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) ![GitHub stars](https://img.shields.io/github/stars/Agnuxo1/EnigmAgent?style=social) <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" height="16"/> <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16" height="16"/> <img src="https://cdn.simpleicons.org/apple/999" width="16" height="16"/> <img src="https://cdn.simpleicons.org/windows/999" width="16" height="16"/> <img src="https://cdn.simpleicons.org/linux/999" width="16" height="16"/> - AES-256-GCM + Argon2id encrypted local vault for AI agent credentials. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts, logs, or LLM context. Dual-mode: stdio MCP server or REST API on port 3737. `npm install -g enigmagent-mcp`
+
 ## Frameworks
 
 *Frameworks and libraries for building MCP servers.*
