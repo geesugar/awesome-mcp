@@ -69,6 +69,8 @@ MCP (Model Context Protocol) is an open protocol that enables AI models to secur
 
 <!-- Productivity & Work section will be filled later with high-quality MCP server implementations -->
 
+* [nowork-studio/toprank](https://github.com/nowork-studio/toprank) ![GitHub stars](https://img.shields.io/github/stars/nowork-studio/toprank?style=social) <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16"/> <img src="https://cdn.simpleicons.org/icloud/3693F3" width="16" height="16"/> - **NotFair** Google Ads MCP server. Connects Claude and AI agents to a Google Ads account: diagnose campaign performance (CPA, ROAS, search-term waste, quality scores), recommend optimizations (bids, budgets, negatives, ad copy), and execute approved changes via the Google Ads API with a built-in human-approval gate.
+
 ### Development & APIs
 
 * [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) ![GitHub stars](https://img.shields.io/github/stars/PipedreamHQ/pipedream?style=social) <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" height="16"/> <img src="https://cdn.simpleicons.org/icloud/3693F3" width="16" height="16"/> <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16" height="16"/> - MCP server that provides connectivity with 2,500+ APIs through 8,000+ prebuilt tools. Connect your AI agents to SaaS apps, databases, and APIs with low-code integration workflow platform.
