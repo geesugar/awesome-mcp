@@ -122,6 +122,7 @@ MCP (Model Context Protocol) is an open protocol that enables AI models to secur
 ### AI & ML Tools
 
 * [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai) ![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social) <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" height="16"/> <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16"/> <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16" height="16"/> - MCP server providing a sandboxed Python interpreter that can run arbitrary code with a focus on security and safety. Enables AI models to execute Python code in a controlled environment.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16" height="16"/> - Trust scoring for Solana AI agent wallets with x402 micropayment verification. Provides `score_agent`, `preflight_check`, and `get_trust_receipt` tools. Zero-install: `{"url":"https://intel.twzrd.xyz/mcp"}`
 
 ### Communication & Productivity
 
