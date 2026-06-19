@@ -67,7 +67,7 @@ MCP (Model Context Protocol) is an open protocol that enables AI models to secur
 
 ### Productivity & Work
 
-<!-- Productivity & Work section will be filled later with high-quality MCP server implementations -->
+* [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) ![GitHub stars](https://img.shields.io/github/stars/nowork-studio/NotFair?style=social) <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" height="16"/> <img src="https://cdn.simpleicons.org/icloud/3693F3" width="16" height="16"/> <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16" height="16"/> - Open-source Claude Code skills for SEO, GEO, and paid ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site audits, keyword research, meta tags, schema markup, Google Ads campaign management, and Meta Ads (Facebook + Instagram) optimization.
 
 ### Development & APIs
 
