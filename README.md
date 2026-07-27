@@ -125,6 +125,7 @@ MCP (Model Context Protocol) is an open protocol that enables AI models to secur
 
 ### Communication & Productivity
 
+* [SocialClaw](https://github.com/ndesv21/socialclaw) - MCP server to schedule, publish, and track social posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress.
 * [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) ![GitHub stars](https://img.shields.io/github/stars/lharries/whatsapp-mcp?style=social) <img src="https://cdn.simpleicons.org/go/00ADD8" width="16" height="16"/> <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16"/> <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16" height="16"/> - WhatsApp MCP server that enables AI assistants to search and read personal WhatsApp messages, manage contacts, and send messages to individuals or groups. Supports media handling including images, videos, documents, and audio messages.
 
 <!-- AI & ML Tools section will be filled later with high-quality MCP server implementations -->
