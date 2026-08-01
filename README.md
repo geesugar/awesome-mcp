@@ -91,6 +91,7 @@ MCP (Model Context Protocol) is an open protocol that enables AI models to secur
 * [microsoft/markitdown](https://github.com/microsoft/markitdown) ![GitHub stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social) <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16"/> <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16" height="16"/> - Python tool with MCP server capability for converting files and office documents to Markdown, supporting PDFs, Office formats, images, audio, and more.
 * [markmap/markmap](https://github.com/markmap/markmap) ![GitHub stars](https://img.shields.io/github/stars/markmap/markmap?style=social) <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" height="16"/> <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16" height="16"/> - MCP server for visualizing Markdown content as interactive mindmaps, allowing AI assistants to create, manipulate and render mindmaps from plain text.
 * [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ![GitHub stars](https://img.shields.io/github/stars/blazickjp/arxiv-mcp-server?style=social) <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16"/> <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="16" height="16"/> - MCP server for searching and analyzing arXiv research papers. Enables AI assistants to query arXiv's repository, access paper content and perform structured paper analysis.
+* [runapi-ai/mcp](https://github.com/runapi-ai/mcp) ![GitHub stars](https://img.shields.io/github/stars/runapi-ai/mcp?style=social) <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" height="16"/> <img src="https://cdn.simpleicons.org/icloud/3693F3" width="16" height="16"/> - MCP server for RunAPI model APIs, enabling AI agents to create image, video, music/audio, text-to-speech, and other model jobs.
 
 <!-- Media & Entertainment section will be filled later with high-quality MCP server implementations -->
 
@@ -149,4 +150,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) 
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
