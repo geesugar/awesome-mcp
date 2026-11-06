@@ -67,7 +67,7 @@ MCP (Model Context Protocol) is an open protocol that enables AI models to secur
 
 ### Productivity & Work
 
-<!-- Productivity & Work section will be filled later with high-quality MCP server implementations -->
+* [jobspipe/mcp](https://github.com/jobspipe/mcp) ![GitHub stars](https://img.shields.io/github/stars/jobspipe/mcp?style=social) <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" height="16"/> <img src="https://cdn.simpleicons.org/icloud/3693F3" width="16" height="16"/> - Hosted MCP server for searching live, normalized job postings from 30+ ATS feeds and job boards. Connect at `https://mcp.jobspipe.dev/mcp` with OAuth or a Bearer API key.
 
 ### Development & APIs
 
